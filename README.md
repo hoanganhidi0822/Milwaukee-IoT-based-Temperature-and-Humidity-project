@@ -1,1 +1,0 @@
-# IoT-based-Temperature-and-Humidity-project
